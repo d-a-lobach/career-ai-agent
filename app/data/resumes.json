@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Data lead",
+    "file": "resumes/data_lead.md"
+  },
+  {
+    "id": 2,
+    "name": "AI lead",
+    "file": "resumes/ai_lead.md"
+  }
+]
