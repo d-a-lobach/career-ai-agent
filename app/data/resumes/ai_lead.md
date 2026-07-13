@@ -56,3 +56,15 @@ VictoriaMetrics, Elastic, Hive, ClickHouse, PostgreSQL, Airflow, Docker, Kuberne
 Языки: Python, SQL
 
 Ищу работу потому что хочу сфокусироваться на продукте, где AI является ключевым направлением бизнеса и напрямую влияет на бизнес-метрики пользователей. Интересно применять свой опыт AI/LLM-продуктов и мультиагентных систем в задачах с быстрым циклом обратной связи и заметным бизнес-эффектом.
+
+О себе
+- AGILE/SCRUM, жизненный цикл разработки ПО;
+- Основы программирования на Java, C#, Python;
+- SQL (сложные запросы, процедуры);
+- Программное обеспечение: Power BI, IntelliJ IDEA, MS Excel, MS Project, MS SSMS, Visual studio, Visio;
+- Построение диаграмм в графической нотации UML (диаграмма классов, use cases, activities);
+- Автоматизированные системы: Siebel, Hyperion Planning, Oracle BI, OEBS, JIRA, TFS
+- Технологии и архитектура сетей фиксированной и мобильной связи (GSM, UMTS, LTE, DWDM, xDSL, GPON, SDH);
+- ОС: Windows, Linux
+
+- Спорт: серфинг, скейт, плавание
